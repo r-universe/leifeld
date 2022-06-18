@@ -1,0 +1,10 @@
+[
+  {
+    "package": "btergm",
+    "oncran": true
+  },
+  {
+    "package": "texreg",
+    "oncran": true
+  }
+]
