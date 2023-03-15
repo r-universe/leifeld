@@ -3,13 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "btergm"]
-	path = btergm
-	url = https://github.com/leifeld/btergm
-	shallow = true
-	registered = true
 [submodule "texreg"]
 	path = texreg
 	url = https://github.com/leifeld/texreg
+	shallow = true
+	registered = true
+[submodule "btergm"]
+	path = btergm
+	url = https://github.com/leifeld/btergm
 	shallow = true
 	registered = true

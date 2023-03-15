@@ -1,10 +1,10 @@
 [
   {
-    "package": "btergm",
+    "package": "texreg",
     "oncran": true
   },
   {
-    "package": "texreg",
+    "package": "btergm",
     "oncran": true
   }
 ]
