@@ -13,3 +13,8 @@
 	url = https://github.com/leifeld/texreg
 	shallow = true
 	registered = true
+[submodule "xergm.common"]
+	path = xergm.common
+	url = https://github.com/cran/xergm.common
+	shallow = true
+	registered = true
