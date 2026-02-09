@@ -2,12 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "btergm"]
-	path = btergm
-	url = https://github.com/leifeld/btergm
-[submodule "texreg"]
-	path = texreg
-	url = https://github.com/leifeld/texreg
 [submodule "xergm.common"]
 	path = xergm.common
 	url = https://github.com/cran/xergm.common
